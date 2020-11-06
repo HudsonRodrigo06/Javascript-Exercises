@@ -1,15 +1,2 @@
-# Jogo da Memória (Pokémon) utilizando Javascript!
-
-Estruturas e tecologias utilizadas:
-* for loops
-* addEventListener
-* setAttribute
-* getAttribute
-* data-name
-* document.querySelector
-* createElement
-* Sort 
-* math.random.
-
-# Como testar?
-* Abrir arquivo index.html
+# Exercícios práticos Javascript
+  * Jogo da Memória (Pokemón) - [Memory Game](./Memory Game)

@@ -10,3 +10,6 @@ Estruturas e tecologias utilizadas:
 * createElement
 * Sort 
 * math.random.
+
+# Como testar?
+* Abrir arquivo index.html

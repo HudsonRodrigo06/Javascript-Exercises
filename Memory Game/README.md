@@ -10,3 +10,6 @@
   * createElement
   * Sort 
   * math.random.
+
+   _**IDE utilizada**_:
+   * [Visual Code](https://code.visualstudio.com/download)

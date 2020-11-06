@@ -11,5 +11,4 @@
   * Sort 
   * math.random.
 
-   _**IDE utilizada**_:
-   * [Visual Code](https://code.visualstudio.com/download)
+   _**IDE utilizada**_: _[Visual Code](https://code.visualstudio.com/download)_
